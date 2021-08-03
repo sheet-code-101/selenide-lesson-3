@@ -1,0 +1,1 @@
+Lesson 3 homework. Nothing special. Practising cats conjuration and alteration in OOP world.
