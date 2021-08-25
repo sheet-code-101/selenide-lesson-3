@@ -32,6 +32,7 @@ public class Main {
 
         System.out.println("lesson-3-new-branch_first_commit");
         System.out.println("lesson-3-new-branch_second_commit");
+        System.out.println("lesson-3-new-branch_third_commit");
 
     }
 
