@@ -30,6 +30,8 @@ public class Main {
                 + age + ". And the color now is "
                 + color + ".");
 
+        System.out.println("lesson-3-new-branch_first_commit");
+
     }
 
 }
